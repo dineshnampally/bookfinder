@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "35bc",
+      "fullName": "Dinesh Nampally",
+      "email": "dinesh@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "31ac",
+      "fullName": "Nampally Dinesh",
+      "email": "email@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "6ab3",
+      "fullName": "user sample",
+      "email": "user@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "4ce3",
+      "fullName": "srikanth",
+      "email": "srikanth@gmail.com",
+      "password": "123"
+    }
+  ]
+}
